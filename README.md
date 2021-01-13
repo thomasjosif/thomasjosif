@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 My name's Thomas and I always have loads of projects on the go.
+
+I do C# and web development for a snaller game developer called [Northwood Studios](https://github.com/northwood-studios) (the makers of [SCP:SL](https://scpslgame.com))
+
+I also maintain a variety of [EXILED](https://github.com/galaxy119/EXILED) plugins for [SCP:SL](https://scpslgame.com) for a gaming comminity called [King's Playground](https://kingsplayground.fun) You can browse my public plugins [here](https://github.com/kingsplayground/).
 
 <!--
 **thomasjosif/thomasjosif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
